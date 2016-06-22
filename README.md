@@ -6,10 +6,7 @@ A repository with which to practice using git.
 
 > Wendy Kang
 
-<<<<<<< HEAD
 
 ### What is your favorite color?
 
 > Green
-=======
->>>>>>> parent of a1eb070... Add color question to README
